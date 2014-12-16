@@ -1,2 +1,2 @@
 Pluto is so very cold!
-Change only on desktop.
+Replaced conflicting line.
